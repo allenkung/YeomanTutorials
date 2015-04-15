@@ -24,21 +24,21 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 + [004-使用Yeoman为你的应用创建脚手架](docs/004-使用Yeoman为你的应用创建脚手架.md)
 
-+ [005-预览通过Yeoman构造器创建的应用](docs/005-预览通过Yeoman构造器创建的应用.md)
++ 005-预览通过Yeoman构造器创建的应用
 
-+ [006-在浏览器里预览你的应用](docs/006-在浏览器里预览你的应用.md)
++ 006-在浏览器里预览你的应用
 
-+ [007-开始编写我们的AngularJS应用程序](docs/007-开始编写我们的AngularJS应用程序.md)
++ 007-开始编写我们的AngularJS应用程序
 
-+ [008-使用Bower安装应用所需要的包](docs/008-使用Bower安装应用所需要的包.md)
++ 008-使用Bower安装应用所需要的包
 
-+ [009-使用Karma和Jasmine来进行测试](docs/009-使用Karma和Jasmine来进行测试.md)
++ 009-使用Karma和Jasmine来进行测试
 
-+ [010-准备把项目发布到生产环境](docs/010-准备把项目发布到生产环境.md)
++ 010-准备把项目发布到生产环境
 
-+ [011-为todos应用添加本地存储功能](docs/011-为todos应用添加本地存储功能.md)
++ 011-为todos应用添加本地存储功能
 
-+ [012-恭喜你学完了! 下一步该怎么做呢？](docs/012-恭喜你学完了! 下一步该怎么做呢？.md)
++ 012-恭喜你学完了! 下一步该怎么做呢？
 
 
 ## History
