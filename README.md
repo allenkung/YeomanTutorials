@@ -24,11 +24,11 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 + [004-使用Yeoman为你的应用创建脚手架](docs/004-使用Yeoman为你的应用创建脚手架.md)
 
-+ 005-预览通过Yeoman构造器创建的应用
++ [005-预览通过Yeoman构造器创建的应用](docs/005-预览通过Yeoman构造器创建的应用.md)
 
-+ 006-在浏览器里预览你的应用
++ [006-在浏览器里预览你的应用](docs/006-在浏览器里预览你的应用.md)
 
-+ 007-开始编写我们的AngularJS应用程序
++ [007-开始编写我们的AngularJS应用程序](docs/007-开始编写我们的AngularJS应用程序.md)
 
 + 008-使用Bower安装应用所需要的包
 
