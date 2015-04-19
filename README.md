@@ -30,7 +30,7 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 + [007-开始编写我们的AngularJS应用程序](docs/007-开始编写我们的AngularJS应用程序.md)
 
-+ 008-使用Bower安装应用所需要的包
++ [008-使用Bower安装应用所需要的包](docs/008-使用Bower安装应用所需要的包.md)
 
 + 009-使用Karma和Jasmine来进行测试
 
@@ -42,5 +42,7 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 
 ## History
+
++ 2015-04-19 完成001-008
 
 + 2015-04-07 创建项目
