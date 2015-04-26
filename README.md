@@ -34,7 +34,7 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 + [009-使用Karma和Jasmine来进行测试](docs/009-使用Karma和Jasmine来进行测试.md)
 
-+ 010-准备把项目发布到生产环境
++ [010-准备把项目发布到生产环境](docs/010-准备把项目发布到生产环境.md)
 
 + 011-为todos应用添加本地存储功能
 
