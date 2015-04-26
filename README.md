@@ -32,7 +32,7 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 
 + [008-使用Bower安装应用所需要的包](docs/008-使用Bower安装应用所需要的包.md)
 
-+ 009-使用Karma和Jasmine来进行测试
++ [009-使用Karma和Jasmine来进行测试](docs/009-使用Karma和Jasmine来进行测试.md)
 
 + 010-准备把项目发布到生产环境
 
