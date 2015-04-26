@@ -41,8 +41,4 @@ GitBook: [https://www.gitbook.com/read/book/wangchi/yeomantutorials](https://www
 + 012-恭喜你学完了! 下一步该怎么做呢？
 
 
-## History
-
-+ 2015-04-19 完成001-008
-
-+ 2015-04-07 创建项目
+MIT
